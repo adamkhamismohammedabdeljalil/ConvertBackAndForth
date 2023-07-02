@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\bin\Debug\net6.0\ConvertBackAndForth.exe
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\bin\Debug\net6.0\ConvertBackAndForth.deps.json
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\bin\Debug\net6.0\ConvertBackAndForth.runtimeconfig.json
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\bin\Debug\net6.0\ConvertBackAndForth.dll
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\bin\Debug\net6.0\ConvertBackAndForth.pdb
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\obj\Debug\net6.0\ConvertBackAndForth.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\obj\Debug\net6.0\ConvertBackAndForth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\obj\Debug\net6.0\ConvertBackAndForth.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\obj\Debug\net6.0\ConvertBackAndForth.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\obj\Debug\net6.0\ConvertBackAndForth.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\obj\Debug\net6.0\ConvertBackAndForth.dll
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\obj\Debug\net6.0\refint\ConvertBackAndForth.dll
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\obj\Debug\net6.0\ConvertBackAndForth.pdb
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\obj\Debug\net6.0\ConvertBackAndForth.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\ConvertBackAndForth\ConvertBackAndForth\obj\Debug\net6.0\ref\ConvertBackAndForth.dll
